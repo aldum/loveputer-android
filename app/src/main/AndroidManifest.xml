@@ -22,7 +22,7 @@
 
   <application
       android:allowBackup="true"
-      android:label="${NAME}"
+      android:label="LOVEputer"
       android:icon="@drawable/loveputer"
       android:usesCleartextTraffic="true" >
     <activity
